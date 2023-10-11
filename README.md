@@ -1,6 +1,8 @@
 # reading-notes
 A journal of reading notes to for Code Fellows
 
+Growth Mindset: Remembering that when you don't know how to do something, you don't know how to do it... yet!
+
 [Github Profile](https://github.com/reyjroliva)
 
 ## Code 102 Reading Notes
