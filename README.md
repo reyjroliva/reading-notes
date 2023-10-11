@@ -19,21 +19,21 @@ A journal of reading notes to for Code Fellows
 
 ## Code 201 Reading Notes
 
-* [class01]
-* [class02]
-* [class03]
-* [class04]
-* [class05]
-* [class06]
-* [class07]
-* [class08]
-* [class09]
-* [class10]
-* [class11]
-* [class12]
-* [class13]
-* [class14]
-* [class15]
+* [class01](code_201/class01.md)
+* [class02](code_201/class02.md)
+* [class03](code_201/class03.md)
+* [class04](code_201/class04.md)
+* [class05](code_201/class05.md)
+* [class06](code_201/class06.md)
+* [class07](code_201/class07.md)
+* [class08](code_201/class08.md)
+* [class09](code_201/class09.md)
+* [class10](code_201/class10.md)
+* [class11](code_201/class11.md)
+* [class12](code_201/class12.md)
+* [class13](code_201/class13.md)
+* [class14](code_201/class14.md)
+* [class15](code_201/class15.md)
 
 ## Code 301 Reading Notes
 
